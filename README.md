@@ -3,29 +3,21 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
-Zachary J. Susag
+> Zachary J. Susag
 What do you prefer to be called?
-> ...
-Zachary or Zach.
+> Zachary or Zach.
 What are your GitHub usernames?
-> ...
-zsusag
+> zsusag
 Why are you taking this course?
-> ...
-In order to gain a thorough understanding of how the OS works at the low level. I'm very interested in creating software tools which prevent security intrusions without having the user know everything about it.
+> In order to gain a thorough understanding of how the OS works at the low level. I'm very interested in creating software tools which prevent security intrusions without having the user know everything about it.
 Do you have any concerns about this course?
-> ...
-I'm a bit concerned about the time committment necessary for this course.
+> I'm a bit concerned about the time committment necessary for this course.
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
-I'm quite interested in CPU scheduling as I want to see how the content I learned in 211 interact with 213.
+> I'm quite interested in CPU scheduling as I want to see how the content I learned in 211 interact with 213.
 Do you have any questions about the course?
-> ...
-Not at the moment.
+> Not at the moment.
 Do you have any other questions for me?
-> ...
-Not at the moment
+> Not at the moment
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
