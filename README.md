@@ -3,38 +3,46 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Zachary J. Susag
+> Linh: My name as appeared on the roster is Linh Bui
+
 What do you prefer to be called?
-> Zachary or Zach.
+> Linh: Linh :)
+
 What are your GitHub usernames?
-> zsusag
+> Linh: My GitHub username is linhtbui
+
 Why are you taking this course?
-> In order to gain a thorough understanding of how the OS works at the low level. I'm very interested in creating software tools which prevent security intrusions without having the user know everything about it.
+> Linh: Because the topic sounds interesting and also it's a requirement for the major
+
 Do you have any concerns about this course?
-> I'm a bit concerned about the time committment necessary for this course.
+> Linh: Being one of a few second-year student I'm kind of overwhelmed
+
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> I'm quite interested in CPU scheduling as I want to see how the content I learned in 211 interact with 213.
+> Linh: Definitely Password Cracker
+
 Do you have any questions about the course?
-> Not at the moment.
+> 
+
 Do you have any other questions for me?
-> Not at the moment
+> Linh: What ice cream flavor do you like the most ?
+
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> It would be labs, projects, participation and assignments.
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> There is no penalty but you have to make up for missed material
 
 What happens if you turn in a lab late?
-> ...
+> Late labs will be penalized a full letter grade (10%) for each day they are late.
 
 On what day will you give a presentation on your final project for this course?
-> ...
+> In the final week of class (May 16 and May 18)
 
 Where can you find our course textbook?
-> ...
+> It can be found online on the front page of the class website
 
 When are you free during my scheduled office hours?
-> ...
+> Linh: I'm free on Monday the whole session and Wednesday/Friday after 4pm
