@@ -3,29 +3,37 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Zachary J. Susag
+> Logan Goldberg
+
 What do you prefer to be called?
-> Zachary or Zach.
+> Logan
+
 What are your GitHub usernames?
-> zsusag
+> lgoldberg9
+
 Why are you taking this course?
-> In order to gain a thorough understanding of how the OS works at the low level. I'm very interested in creating software tools which prevent security intrusions without having the user know everything about it.
+> Graduation and it sounds cool.
+
 Do you have any concerns about this course?
-> I'm a bit concerned about the time committment necessary for this course.
+> I do not have any concerns.
+
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> I'm quite interested in CPU scheduling as I want to see how the content I learned in 211 interact with 213.
+> Parallelization, Distribuing Systems, and GPUs 
+
 Do you have any questions about the course?
-> Not at the moment.
+> I do not any questions about the course.
+
 Do you have any other questions for me?
-> Not at the moment
+> Hi Charlie.
+
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> Labs, Project, Assignments, Participation
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> Nothing! Focus on feeling better. Just do not miss lab days.
 
 What happens if you turn in a lab late?
 > ...
